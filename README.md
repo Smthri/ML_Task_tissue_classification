@@ -9,3 +9,5 @@
 - Реализация возможности дообучения модели
 
 Ссылка на папку с необходимыми чекпоинтами: https://drive.google.com/drive/folders/1xiSR9Bf4QY72YlGpcxuCL-NIifnnSGzo?usp=sharing
+
+Данную папку необходимо положить в одну директорию с .ipynb., поменять поля `base_dir`и `PROJECT_DIR` таким образом, чтобы по пути `base_dir` + `PROJECT_DIR` был доступ к файлам .npz, необходимым для обучения, а также к папке `models`.
