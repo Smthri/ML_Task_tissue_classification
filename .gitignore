@@ -1,5 +1,6 @@
 *.npz
 *.h5
 .idea*
+*.h5
 test
 train
